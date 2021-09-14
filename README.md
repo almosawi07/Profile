@@ -1,8 +1,8 @@
-# :wave: Hey, i am (M1)! 
+# :wave: Hey, i am M1! 
 
 ### :heart:️ Thanks for being here!
 
-- :telephone_receiver: You can contact me through **[Discord](https://discord.com/users/751224380247244871)** (**`(M1#6834)`**)
+- :telephone_receiver: You can contact me through **[Discord](https://discord.com/users/751224380247244871)** (**`M1#6834`**)
 
 - :briefcase: Most famous projects: **[Project Name](Link)**
 
@@ -15,4 +15,4 @@
 <a><img src="https://img.shields.io/badge/-React-grey?logo=React&logoColor=#61dbfb"></a> // React
 
 #### Stats:
-<img src="https://github-readme-stats.vercel.app/api?username=(username_github)&show_icons=true&hide_border=true&theme=algolia&icon_color=#ee6c4d">
+<img src="https://github-readme-stats.vercel.app/api?username=M1Q8&show_icons=true&hide_border=true&theme=algolia&icon_color=#ee6c4d">
