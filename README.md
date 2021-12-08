@@ -2,7 +2,7 @@
 
 ### :heart:️ Thanks for being here!
 
-- :telephone_receiver: You can contact me through **[Discord](https://discord.com/users/751224380247244871)** (**`M1#6834`**)
+- :telephone_receiver: You can contact me through **[Discord](https://discord.com/users/751224380247244871)** (**`M1#1997`**)
 
 
 #### Stats:
