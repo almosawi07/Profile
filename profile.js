@@ -1,4 +1,4 @@
-```js
+
 const profile = {
     name:"Sayed-hassan",
     age:15,
@@ -7,5 +7,3 @@ const profile = {
    
    console.log(profile);
 
-
-```
